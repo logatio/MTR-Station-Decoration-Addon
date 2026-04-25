@@ -1,6 +1,6 @@
 # MTR-Station-Decoration-Addon
  
-[中文](README_zh.md)
+[中 文](README_zh.md)
 
 A Station Decoration Addon for the  Minecraft Transit Railway Mod, This is a fork from [AIDA64S/MTR-Station-Decoration-Addon](https://github.com/AIDA64S/MTR-Station-Decoration-Addon).
 
